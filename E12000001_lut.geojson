@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "E12000001_lut",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E06000001","auth_name_e":"Hartlepool","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E06000001"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E06000002","auth_name_e":"Middlesbrough","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E06000002"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E06000003","auth_name_e":"Redcar and Cleveland","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E06000003"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E06000004","auth_name_e":"Stockton-on-Tees","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E06000004"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E06000005","auth_name_e":"Darlington","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E06000005"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E06000047","auth_name_e":"County Durham","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E06000047"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E06000057","auth_name_e":"Northumberland","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E06000057"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E08000021","auth_name_e":"Newcastle upon Tyne","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E08000021"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E08000022","auth_name_e":"North Tyneside","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E08000022"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E08000023","auth_name_e":"South Tyneside","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E08000023"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E08000024","auth_name_e":"Sunderland","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E08000024"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"E12000001","reg_name_e":"North East","reg_name_w":null,"authority_id":"E08000037","auth_name_e":"Gateshead","auth_name_w":null,"country":"England","absolute_filepath":"England/E12000001/E08000037"},"geometry":null}
+]
+}
