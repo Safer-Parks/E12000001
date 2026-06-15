@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NEWUP_99_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gosforth Asda", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 162, "park_offical_id": "NEWUP_99" }, "geometry": { "type": "Point", "coordinates": [ -1.619303226, 55.013288258 ] } },
+{ "type": "Feature", "properties": { "name": "Gosforth Asda", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 162, "park_offical_id": "NEWUP_99" }, "geometry": { "type": "Point", "coordinates": [ -1.61940515, 55.012797651 ] } }
+]
+}

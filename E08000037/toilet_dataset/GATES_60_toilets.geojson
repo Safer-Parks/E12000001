@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "GATES_60_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Whickham Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 93, "park_offical_id": "GATES_60" }, "geometry": { "type": "Point", "coordinates": [ -1.677453979, 54.946246607 ] } },
+{ "type": "Feature", "properties": { "name": "Swalwell Visitor Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 93, "park_offical_id": "GATES_60" }, "geometry": { "type": "Point", "coordinates": [ -1.690590149, 54.953478741 ] } },
+{ "type": "Feature", "properties": { "name": "Front Street Whickham", "payment_info": "There is a charge for this service", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 93, "park_offical_id": "GATES_60" }, "geometry": { "type": "Point", "coordinates": [ -1.679126442, 54.945990429 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORTY_107_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:15-22:00", "Tue": "07:15-22:00", "Wed": "07:15-22:00", "Thu": "07:15-22:00", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 8, "park_offical_id": "NORTY_107" }, "geometry": { "type": "Point", "coordinates": [ -1.5180586, 55.0000806 ] } },
+{ "type": "Feature", "properties": { "name": "Holy Cross Cemetary St Peters Road", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-19:00", "Tue": "09:00-19:00", "Wed": "09:00-19:00", "Thu": "09:00-19:00", "Fri": "09:00-19:00", "Sat": "09:00-19:00", "Sun": "09:00-19:00", "index_right": 8, "park_offical_id": "NORTY_107" }, "geometry": { "type": "Point", "coordinates": [ -1.51866138, 55.000698224 ] } },
+{ "type": "Feature", "properties": { "name": "Hadrian Leisure Centre St Peters Road", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:15-22:00", "Tue": "07:15-22:00", "Wed": "07:15-22:00", "Thu": "07:15-22:00", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 8, "park_offical_id": "NORTY_107" }, "geometry": { "type": "Point", "coordinates": [ -1.519980215, 54.994792215 ] } }
+]
+}

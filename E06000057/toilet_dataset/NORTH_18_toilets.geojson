@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORTH_18_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Manor Walks", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 62, "park_offical_id": "NORTH_18" }, "geometry": { "type": "Point", "coordinates": [ -1.592379212, 55.085861038 ] } }
+]
+}

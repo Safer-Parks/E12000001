@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORTY_81_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Waves", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:00-21:30", "Tue": "07:00-21:30", "Wed": "07:00-21:30", "Thu": "07:00-21:30", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 85, "park_offical_id": "NORTY_81" }, "geometry": { "type": "Point", "coordinates": [ -1.4529438, 55.0524882 ] } },
+{ "type": "Feature", "properties": { "name": "Dukes Walk behind Rendezvous Caf", "payment_info": "020", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "07:30-17:00", "Tue": "07:30-17:00", "Wed": "07:30-17:00", "Thu": "07:30-17:00", "Fri": "07:30-17:00", "Sat": "07:30-17:00", "Sun": "07:30-17:00", "index_right": 85, "park_offical_id": "NORTY_81" }, "geometry": { "type": "Point", "coordinates": [ -1.451125604, 55.053397053 ] } },
+{ "type": "Feature", "properties": { "name": "Whitley Bay Cemetary The Links", "payment_info": "Cost unknown", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-19:00", "Tue": "09:00-19:00", "Wed": "09:00-19:00", "Thu": "09:00-19:00", "Fri": "09:00-19:00", "Sat": "09:00-19:00", "Sun": "09:00-19:00", "index_right": 85, "park_offical_id": "NORTY_81" }, "geometry": { "type": "Point", "coordinates": [ -1.45898322, 55.063874186 ] } }
+]
+}

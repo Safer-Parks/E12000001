@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORTY_24_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "The White Swan Centre Citadel East", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-19:00", "Tue": "08:30-19:00", "Wed": "08:30-19:00", "Thu": "08:30-19:00", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 23, "park_offical_id": "NORTY_24" }, "geometry": { "type": "Point", "coordinates": [ -1.5650554, 55.0355048 ] } },
+{ "type": "Feature", "properties": { "name": "The Lakeside Centre South Gate", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:15-21:45", "Tue": "07:15-21:45", "Wed": "07:15-21:45", "Thu": "07:15-21:45", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 23, "park_offical_id": "NORTY_24" }, "geometry": { "type": "Point", "coordinates": [ -1.56848073, 55.032824591 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 23, "park_offical_id": "NORTY_24" }, "geometry": { "type": "Point", "coordinates": [ -1.5780877, 55.0340137 ] } }
+]
+}

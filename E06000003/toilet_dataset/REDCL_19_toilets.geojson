@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "REDCL_19_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 11, "park_offical_id": "REDCL_19" }, "geometry": { "type": "Point", "coordinates": [ -1.066617966, 54.613419575 ] } },
+{ "type": "Feature", "properties": { "name": "Redcar Library", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 11, "park_offical_id": "REDCL_19" }, "geometry": { "type": "Point", "coordinates": [ -1.071928008, 54.616585364 ] } },
+{ "type": "Feature", "properties": { "name": "Locke Park", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-16:00", "Tue": "09:00-16:00", "Wed": "09:00-16:00", "Thu": "09:00-16:00", "Fri": "09:00-16:00", "Sat": "09:00-16:00", "Sun": "09:00-16:00", "index_right": 11, "park_offical_id": "REDCL_19" }, "geometry": { "type": "Point", "coordinates": [ -1.082037985, 54.613481119 ] } },
+{ "type": "Feature", "properties": { "name": "Civic Centre Redcar", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 11, "park_offical_id": "REDCL_19" }, "geometry": { "type": "Point", "coordinates": [ -1.071016495, 54.617171524 ] } }
+]
+}

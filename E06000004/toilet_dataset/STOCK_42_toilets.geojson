@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "STOCK_42_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wyevale Garden Centre", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 65, "park_offical_id": "STOCK_42" }, "geometry": { "type": "Point", "coordinates": [ -1.335117817, 54.545005048 ] } },
+{ "type": "Feature", "properties": { "name": "Preston park", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-21:00", "Tue": "09:00-21:00", "Wed": "09:00-21:00", "Thu": "09:00-21:00", "Fri": "09:00-21:00", "Sat": "09:00-21:00", "Sun": "09:00-21:00", "index_right": 65, "park_offical_id": "STOCK_42" }, "geometry": { "type": "Point", "coordinates": [ -1.339940429, 54.534545277 ] } }
+]
+}

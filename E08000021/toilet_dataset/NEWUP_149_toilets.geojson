@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NEWUP_149_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gosforth Asda", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 42, "park_offical_id": "NEWUP_149" }, "geometry": { "type": "Point", "coordinates": [ -1.619303226, 55.013288258 ] } },
+{ "type": "Feature", "properties": { "name": "Job Bulman pub", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 42, "park_offical_id": "NEWUP_149" }, "geometry": { "type": "Point", "coordinates": [ -1.619260311, 55.004713313 ] } },
+{ "type": "Feature", "properties": { "name": "Gosforth Shopping Centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 42, "park_offical_id": "NEWUP_149" }, "geometry": { "type": "Point", "coordinates": [ -1.619094014, 55.005445523 ] } },
+{ "type": "Feature", "properties": { "name": "Gosforth Asda", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 42, "park_offical_id": "NEWUP_149" }, "geometry": { "type": "Point", "coordinates": [ -1.61940515, 55.012797651 ] } }
+]
+}

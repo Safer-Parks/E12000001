@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORTY_82_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Low Lights Car Park Fish Quay", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:30-21:00", "Tue": "07:30-21:00", "Wed": "07:30-21:00", "Thu": "07:30-21:00", "Fri": "07:30-21:00", "Sat": "07:30-21:00", "Sun": "07:30-21:00", "index_right": 86, "park_offical_id": "NORTY_82" }, "geometry": { "type": "Point", "coordinates": [ -1.432605386, 55.010881306 ] } },
+{ "type": "Feature", "properties": { "name": "Duke Street Ferry Landing", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "07:30-21:00", "Tue": "07:30-21:00", "Wed": "07:30-21:00", "Thu": "07:30-21:00", "Fri": "07:30-21:00", "Sat": "07:30-21:00", "Sun": "07:30-21:00", "index_right": 86, "park_offical_id": "NORTY_82" }, "geometry": { "type": "Point", "coordinates": [ -1.445018649, 55.003747267 ] } },
+{ "type": "Feature", "properties": { "name": "Customer First Centre Northumberland Square", "payment_info": "Cost unknown", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 86, "park_offical_id": "NORTY_82" }, "geometry": { "type": "Point", "coordinates": [ -1.445683047, 55.009959822 ] } }
+]
+}

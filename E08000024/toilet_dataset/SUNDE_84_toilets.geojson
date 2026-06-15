@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SUNDE_84_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sea Lane", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "10:30-18:00", "Tue": "10:30-18:00", "Wed": "10:30-18:00", "Thu": "10:30-18:00", "Fri": "10:30-18:00", "Sat": "10:30-18:00", "Sun": "10:30-18:00", "index_right": 97, "park_offical_id": "SUNDE_84" }, "geometry": { "type": "Point", "coordinates": [ -1.367535776, 54.932169899 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "06:00-20:00", "Tue": "06:00-20:00", "Wed": "06:00-20:00", "Thu": "06:00-20:00", "Fri": "06:00-20:00", "Sat": "06:00-20:00", "Sun": "06:00-20:00", "index_right": 97, "park_offical_id": "SUNDE_84" }, "geometry": { "type": "Point", "coordinates": [ -1.368312988, 54.936352635 ] } }
+]
+}

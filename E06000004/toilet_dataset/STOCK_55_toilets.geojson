@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "STOCK_55_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thornaby Sports And Leisure Club", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 79, "park_offical_id": "STOCK_55" }, "geometry": { "type": "Point", "coordinates": [ -1.289069653, 54.532615481 ] } },
+{ "type": "Feature", "properties": { "name": "McDonalds", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 79, "park_offical_id": "STOCK_55" }, "geometry": { "type": "Point", "coordinates": [ -1.29001379, 54.540581523 ] } },
+{ "type": "Feature", "properties": { "name": "Asda", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 79, "park_offical_id": "STOCK_55" }, "geometry": { "type": "Point", "coordinates": [ -1.291129589, 54.538163397 ] } },
+{ "type": "Feature", "properties": { "name": "Thornaby Central Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "08:30-17:00", "Tue": "08:30-17:00", "Wed": "08:30-17:00", "Thu": "08:30-17:00", "Fri": "08:30-17:00", "Sat": "08:30-17:00", "Sun": "08:30-17:00", "index_right": 79, "park_offical_id": "STOCK_55" }, "geometry": { "type": "Point", "coordinates": [ -1.291071464, 54.53849562 ] } }
+]
+}

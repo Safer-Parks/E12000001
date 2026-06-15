@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORTY_29_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Forest Hall 28 Station Road North", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "09:15-17:15", "Tue": "09:15-17:15", "Wed": "09:15-17:15", "Thu": "09:15-17:15", "Fri": "09:15-17:15", "Sat": "09:15-17:15", "Sun": "09:15-17:15", "index_right": 28, "park_offical_id": "NORTY_29" }, "geometry": { "type": "Point", "coordinates": [ -1.565648317, 55.02142776 ] } }
+]
+}

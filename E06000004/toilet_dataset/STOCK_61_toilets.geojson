@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "STOCK_61_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 86, "park_offical_id": "STOCK_61" }, "geometry": { "type": "Point", "coordinates": [ -1.3150868, 54.566352 ] } },
+{ "type": "Feature", "properties": { "name": "Stockon Central Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-18:00", "Tue": "08:30-18:00", "Wed": "08:30-18:00", "Thu": "08:30-18:00", "Fri": "08:30-18:00", "Sat": "08:30-18:00", "Sun": "08:30-18:00", "index_right": 86, "park_offical_id": "STOCK_61" }, "geometry": { "type": "Point", "coordinates": [ -1.311200774, 54.566597519 ] } },
+{ "type": "Feature", "properties": { "name": "Stockton High Street", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-17:00", "Tue": "08:30-17:00", "Wed": "08:30-17:00", "Thu": "08:30-17:00", "Fri": "08:30-17:00", "Sat": "08:30-17:00", "Sun": "08:30-17:00", "index_right": 86, "park_offical_id": "STOCK_61" }, "geometry": { "type": "Point", "coordinates": [ -1.312984228, 54.563294643 ] } }
+]
+}

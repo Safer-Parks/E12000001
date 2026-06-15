@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MIDDL_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lidl Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "MIDDL_21" }, "geometry": { "type": "Point", "coordinates": [ -1.253707409, 54.571265565 ] } },
+{ "type": "Feature", "properties": { "name": "Albert Park Visitor Centre Changing Places Toilet", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "MIDDL_21" }, "geometry": { "type": "Point", "coordinates": [ -1.231327057, 54.564524783 ] } },
+{ "type": "Feature", "properties": { "name": "Albert Park Parkside Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "MIDDL_21" }, "geometry": { "type": "Point", "coordinates": [ -1.234846115, 54.565089449 ] } },
+{ "type": "Feature", "properties": { "name": "McDonalds Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "MIDDL_21" }, "geometry": { "type": "Point", "coordinates": [ -1.23747468, 54.574555692 ] } },
+{ "type": "Feature", "properties": { "name": "Albert Park Visitor Centre Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "MIDDL_21" }, "geometry": { "type": "Point", "coordinates": [ -1.231423616, 54.564616654 ] } }
+]
+}

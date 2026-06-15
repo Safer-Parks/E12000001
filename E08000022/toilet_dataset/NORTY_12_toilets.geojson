@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORTY_12_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wallsend Customer First Centre 16 The Forum", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 10, "park_offical_id": "NORTY_12" }, "geometry": { "type": "Point", "coordinates": [ -1.534491777, 54.991617412 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 10, "park_offical_id": "NORTY_12" }, "geometry": { "type": "Point", "coordinates": [ -1.535049042, 54.991898659 ] } },
+{ "type": "Feature", "properties": { "name": "Richardshon Dees Park Park View", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:30-21:00", "Tue": "07:30-21:00", "Wed": "07:30-21:00", "Thu": "07:30-21:00", "Fri": "07:30-21:00", "Sat": "07:30-21:00", "Sun": "07:30-21:00", "index_right": 10, "park_offical_id": "NORTY_12" }, "geometry": { "type": "Point", "coordinates": [ -1.5366429, 54.995304 ] } }
+]
+}

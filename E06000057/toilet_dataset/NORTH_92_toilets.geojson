@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORTH_92_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 216, "park_offical_id": "NORTH_92" }, "geometry": { "type": "Point", "coordinates": [ -1.524476409, 55.072783963 ] } }
+]
+}

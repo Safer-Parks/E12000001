@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "GATES_92_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Gateshead Indoor Bowling Centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 128, "park_offical_id": "GATES_92" }, "geometry": { "type": "Point", "coordinates": [ -1.601369977, 54.955878888 ] } },
+{ "type": "Feature", "properties": { "name": "Central Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 128, "park_offical_id": "GATES_92" }, "geometry": { "type": "Point", "coordinates": [ -1.601687138, 54.951431811 ] } },
+{ "type": "Feature", "properties": { "name": "Shipley Art Gallery", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 128, "park_offical_id": "GATES_92" }, "geometry": { "type": "Point", "coordinates": [ -1.600492895, 54.949989536 ] } },
+{ "type": "Feature", "properties": { "name": "Gateshead Leisure Centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 128, "park_offical_id": "GATES_92" }, "geometry": { "type": "Point", "coordinates": [ -1.60011611, 54.95083356 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 128, "park_offical_id": "GATES_92" }, "geometry": { "type": "Point", "coordinates": [ -1.6038966, 54.9440904 ] } }
+]
+}

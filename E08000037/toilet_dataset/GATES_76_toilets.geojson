@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GATES_76_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rowlands Gill Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 110, "park_offical_id": "GATES_76" }, "geometry": { "type": "Point", "coordinates": [ -1.744934463, 54.920310682 ] } },
+{ "type": "Feature", "properties": { "name": "Derwent Park", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 110, "park_offical_id": "GATES_76" }, "geometry": { "type": "Point", "coordinates": [ -1.737722349, 54.920969311 ] } }
+]
+}
