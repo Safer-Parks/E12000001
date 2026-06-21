@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Middlesbrough_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9022760401, "authority": "Middlesbrough", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2339111, 54.5783061 ] } }
+]
+}

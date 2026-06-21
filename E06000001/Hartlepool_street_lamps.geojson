@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "Hartlepool_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9580383566, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.216476, 54.6935257 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9580383568, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2169596, 54.6934473 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9580383569, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.216715, 54.6929676 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9580383570, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2165132, 54.6925436 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10751936513, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2124738, 54.6985798 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10751936514, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2123873, 54.6983167 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11079202376, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2311474, 54.6357804 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11913708682, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2332287, 54.6580119 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11913708704, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2330455, 54.657277 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323757943, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2210019, 54.661335 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323757944, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2210998, 54.6609514 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323757945, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.221201, 54.6605585 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323757946, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2213029, 54.660171 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323757989, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.221403, 54.6597708 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323757990, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2215008, 54.6593837 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323758063, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2205074, 54.6632739 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323758064, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.220602, 54.662889 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323758065, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2208201, 54.6621123 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323758086, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2207085, 54.6624989 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323758108, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2202875, 54.664086 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323758109, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2203844, 54.6637376 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12323758130, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2200503, 54.6644335 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12326845462, "authority": "Hartlepool", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2227495, 54.6625273 ] } }
+]
+}
