@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_161_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5630174,54.6286552],[-1.5630927,54.6287195],[-1.5631571,54.628794],[-1.5631678,54.6288779],[-1.5630874,54.6289648],[-1.5629372,54.6291791],[-1.5629372,54.6292909],[-1.5629801,54.6294461],[-1.5630667,54.6296627]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5628728,54.6285611],[-1.5630174,54.6286552]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5593765,54.6269176],[-1.5609008,54.6279562],[-1.5612205,54.6282599],[-1.5612258,54.6282898],[-1.5612442,54.6283941],[-1.5612635,54.6285239],[-1.5613815,54.6286884],[-1.5614771,54.62875],[-1.5615263,54.6287816],[-1.5617033,54.6287971],[-1.5619126,54.6287599],[-1.5620735,54.6287102],[-1.5623224,54.6286394],[-1.5625456,54.6285735],[-1.5627172,54.6285363],[-1.5628084,54.6285363],[-1.5628728,54.6285611]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5599914,54.6219387],[-1.5599837,54.6218703]]]}}
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_363_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.632017,54.9151185],[-1.632076,54.9153436],[-1.6321511,54.9156334],[-1.6323121,54.9162655],[-1.6323389,54.9163888],[-1.6323764,54.9164258],[-1.6324515,54.9164443],[-1.6325857,54.9164536],[-1.6338999,54.9164967],[-1.634034,54.9164844],[-1.6341789,54.9164474],[-1.6345222,54.9163456],[-1.6352384,54.9161205]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6231701,54.9187018],[-1.6233609,54.9186033],[-1.6236284,54.9185241],[-1.6243354,54.9184118],[-1.6248557,54.9182903],[-1.6250671,54.9181127],[-1.6250671,54.9174585],[-1.6246931,54.9171874],[-1.6242541,54.9168323],[-1.623815,54.9165332],[-1.6235115,54.9164459],[-1.623146,54.9164349],[-1.6228251,54.9165496],[-1.622758,54.9166734],[-1.6226116,54.9170379],[-1.6226441,54.9173557],[-1.6226441,54.9174865],[-1.6226929,54.9176641],[-1.6230181,54.9178136],[-1.6234572,54.9179819],[-1.6234696,54.9182329],[-1.6233901,54.9184674],[-1.6231701,54.9187018],[-1.6231738,54.9189464]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6213961,54.9234485],[-1.6213108,54.923465]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6187043,54.9228862],[-1.6185245,54.9229265]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6187091,54.9226036],[-1.6186753,54.9225494]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6178167,54.9227864],[-1.6177913,54.9227447]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Dukesway","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6218173,54.9262586],[-1.6217691,54.9261794],[-1.6213494,54.9255011],[-1.6211806,54.9252147],[-1.6209351,54.9248149],[-1.6207298,54.9244795],[-1.6205096,54.9241189]]]}}
+]
+}

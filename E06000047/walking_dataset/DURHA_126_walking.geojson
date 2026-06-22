@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_126_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6370971,54.915547],[-1.6364228,54.9157583],[-1.6355629,54.9160341],[-1.635402,54.9160866],[-1.6353269,54.9161112]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.632017,54.9151185],[-1.632076,54.9153436],[-1.6321511,54.9156334],[-1.6323121,54.9162655],[-1.6323389,54.9163888],[-1.6323764,54.9164258],[-1.6324515,54.9164443],[-1.6325857,54.9164536],[-1.6338999,54.9164967],[-1.634034,54.9164844],[-1.6341789,54.9164474],[-1.6345222,54.9163456],[-1.6352384,54.9161205]]]}}
+]
+}

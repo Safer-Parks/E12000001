@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_54_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7243979,54.6333176],[-1.7249195,54.6331353],[-1.7269201,54.6328675],[-1.7301653,54.6333864],[-1.7303241,54.6333716],[-1.7315021,54.6337896],[-1.732004,54.6340534]]]}}
+]
+}
