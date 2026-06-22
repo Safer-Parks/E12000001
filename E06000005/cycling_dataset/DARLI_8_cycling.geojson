@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DARLI_8_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4979968,54.5188372],[-1.4982762,54.5187951],[-1.4985495,54.5187419],[-1.4987421,54.5187229],[-1.4988556,54.518727],[-1.4989845,54.5187437],[-1.4990774,54.5187782],[-1.4991297,54.5188244],[-1.4991416,54.5188876]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4995108,54.5189391],[-1.4994221,54.5189127],[-1.4993574,54.5188967],[-1.4993142,54.5188911],[-1.4992507,54.518889],[-1.4991416,54.5188876]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4971617,54.5190202],[-1.4970896,54.5190556],[-1.4952895,54.5193314],[-1.4942729,54.5194789],[-1.4918898,54.5199111],[-1.4906954,54.5200905],[-1.4901301,54.5201265]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":null,"category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4992195,54.5191346],[-1.4990101,54.5195799],[-1.4985724,54.5206146],[-1.4981316,54.5217165],[-1.4980032,54.522023],[-1.4976747,54.5229379],[-1.4973457,54.523889],[-1.4970569,54.5248389],[-1.4968413,54.525711],[-1.4966901,54.5264729],[-1.4965929,54.5271698],[-1.4965252,54.5278676],[-1.4964933,54.5283547],[-1.4964767,54.528964],[-1.4964891,54.5295179],[-1.4964974,54.5296889]]]}}
+]
+}

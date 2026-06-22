@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "MIDDL_0_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2355448,54.5525412],[-1.2355609,54.5525855],[-1.2355955,54.5526539],[-1.2356222,54.5527536]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2351207,54.5561515],[-1.2350979,54.5563685],[-1.2350516,54.5568973],[-1.2350186,54.5573316],[-1.2349517,54.5573564],[-1.2349017,54.5573747],[-1.2348917,54.5573788]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2588316,54.5605775],[-1.2584295,54.5606205],[-1.2564539,54.5608651],[-1.2565612,54.561089],[-1.2542652,54.5614001],[-1.2543296,54.5615742],[-1.2504231,54.5621601],[-1.2503287,54.5622308]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2414251,54.5623868],[-1.2411091,54.5623709]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2355315,54.5524165],[-1.2353654,54.5523424]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2413194,54.5545357],[-1.2412995,54.5548493],[-1.24127,54.5551091],[-1.2413552,54.5554873]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2358928,54.5512224],[-1.2358143,54.5515435],[-1.2355315,54.5524165],[-1.2355384,54.5524809],[-1.2355448,54.5525412]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2542652,54.5614001],[-1.2541925,54.5611528],[-1.2530704,54.5612966],[-1.2528997,54.5608699],[-1.252611,54.5603254],[-1.2523346,54.5601651],[-1.251922,54.5600449]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2348183,54.5544938],[-1.2348726,54.5546834],[-1.2348399,54.554779],[-1.2347634,54.5548302],[-1.2347261,54.5548823],[-1.2346347,54.5551308],[-1.2346549,54.555346],[-1.2347079,54.5558693],[-1.2347338,54.5560067],[-1.2347227,54.556146]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2356222,54.5527536],[-1.2354316,54.5528463],[-1.235322,54.5528978],[-1.235047,54.5529513],[-1.2347776,54.5530553],[-1.2346793,54.553138],[-1.2346177,54.5531897],[-1.2345117,54.553348],[-1.2344439,54.5534957],[-1.2343611,54.5537881],[-1.2343424,54.5539704],[-1.2343326,54.5541734],[-1.2343806,54.5542419],[-1.2345382,54.5543301],[-1.2347636,54.5544306],[-1.2348183,54.5544938]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2415396,54.562162],[-1.2423105,54.5621967]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Southwell Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2348819,54.5573828],[-1.2348604,54.5575599]]]}}
+]
+}

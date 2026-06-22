@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "STOCK_58_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2847954,54.5961777],[-1.284617,54.5959929],[-1.2836198,54.5953553],[-1.2835564,54.5951487],[-1.2836463,54.5948929]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.294861,54.5905168],[-1.2951752,54.5900923]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2926113,54.5910481],[-1.2927105,54.5908973],[-1.2923504,54.5908362],[-1.2919734,54.5907722],[-1.2919081,54.5907596],[-1.2918423,54.5907469],[-1.2917417,54.5907275],[-1.2917412,54.5907055]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2918423,54.5907469],[-1.2918769,54.5906715],[-1.2923429,54.5907499],[-1.2923911,54.590758],[-1.2923504,54.5908362]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2923429,54.5907499],[-1.2919081,54.5907596]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2927105,54.5908973],[-1.2928542,54.5909364],[-1.2929298,54.590957],[-1.2930615,54.5909929],[-1.293341,54.5910643],[-1.2933598,54.5910691],[-1.2936423,54.5911322],[-1.2938996,54.5911607],[-1.2943584,54.5912115],[-1.2944,54.5912153],[-1.2944578,54.5912207],[-1.2946388,54.5912374]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2944578,54.5912207],[-1.2944689,54.5911301],[-1.2941185,54.5910975],[-1.2939231,54.5910793],[-1.2938996,54.5911607]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2941185,54.5910975],[-1.2943899,54.5911983],[-1.2944,54.5912153]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.293341,54.5910643],[-1.2934002,54.5909918],[-1.2933322,54.590973],[-1.2929228,54.5908597],[-1.2928542,54.5909364]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2933322,54.590973],[-1.2929298,54.590957]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2878623,54.5887766],[-1.2880822,54.5888786],[-1.2884191,54.5890057],[-1.2887139,54.5891085],[-1.2893028,54.5892619]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2878804,54.5884161],[-1.2882366,54.588409],[-1.288284,54.5883612],[-1.2884578,54.5882748],[-1.2889632,54.5881568],[-1.2890021,54.5881393]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Belasis Avenue","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2937571,54.5926562],[-1.2936345,54.5926784],[-1.2935115,54.5927077]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Billingham Bank","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2960722,54.5923852],[-1.2958895,54.5924039],[-1.2952621,54.5924731],[-1.2945417,54.5925536],[-1.2940299,54.5926161],[-1.2939326,54.592628],[-1.2937571,54.5926562]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"South View","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2935115,54.5927077],[-1.2929977,54.5928804],[-1.2925443,54.5930275],[-1.2923679,54.5930812],[-1.2919739,54.5931829],[-1.29178,54.5932268]]]}}
+]
+}
