@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORTH_410_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0480168,54.9973335],[-2.047829,54.9975797],[-2.0478746,54.9978936],[-2.0480651,54.9979397],[-2.0484218,54.9979613],[-2.0487732,54.9978167],[-2.0490897,54.9977105],[-2.0494223,54.9977182],[-2.0496663,54.9977828],[-2.0499077,54.9977659],[-2.0502377,54.9977228],[-2.0524271,54.9977335]]]}}
+]
+}

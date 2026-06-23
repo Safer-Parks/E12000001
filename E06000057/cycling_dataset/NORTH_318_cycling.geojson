@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORTH_318_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7071754,55.151687],[-1.7074172,55.1520623],[-1.7078907,55.1528671]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"LNER Morpeth Branch","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6917379,55.1573958],[-1.6922236,55.1572758],[-1.6925109,55.1572182],[-1.6933427,55.1570516],[-1.6962348,55.1564802],[-1.6985601,55.1560074],[-1.7012793,55.1554546],[-1.7073454,55.1540492],[-1.7090129,55.1537171],[-1.7094113,55.1536827],[-1.7098199,55.1536711],[-1.7105186,55.1536916],[-1.7112073,55.1537519],[-1.712882,55.1538984]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.7041713,55.1598757],[-1.704055,55.1597996]]]}}
+]
+}

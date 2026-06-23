@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORTH_229_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9687073,55.5153038],[-1.9686473,55.5150758],[-1.9684544,55.5145386],[-1.9681306,55.5136915],[-1.9679519,55.5133546]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.9679519,55.5133546],[-1.9678331,55.5131594],[-1.9675976,55.5129117],[-1.9673172,55.5126539],[-1.9669943,55.5124253],[-1.9665726,55.5122538],[-1.966124,55.5121027],[-1.9654421,55.5120163],[-1.9651819,55.5119973],[-1.9649569,55.5119725]]]}}
+]
+}

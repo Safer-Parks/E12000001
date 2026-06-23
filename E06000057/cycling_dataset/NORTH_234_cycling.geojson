@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORTH_234_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0041853,55.5355471],[-2.0041602,55.5356417],[-2.0042181,55.5359876],[-2.0052615,55.5388264],[-2.0053098,55.5390968],[-2.0053182,55.5392986],[-2.0052374,55.5393412],[-2.0052172,55.5394141],[-2.0052566,55.5395155],[-2.0053313,55.5396392],[-2.0053648,55.5399001],[-2.0053116,55.5399257],[-2.0052112,55.5399346],[-2.0051521,55.5399291],[-2.0050819,55.539901]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0053946,55.5393275],[-2.0053182,55.5392986]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.0062772,55.5471607],[-2.0063129,55.5477066],[-2.0063651,55.5478],[-2.0064559,55.5478855],[-2.0066291,55.5480006],[-2.0070223,55.5482339],[-2.0071377,55.548349],[-2.0072045,55.5484482]]]}}
+]
+}
