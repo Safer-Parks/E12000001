@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SOUTY_103_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5287711,54.9677625],[-1.5274685,54.9704377]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.528362,54.9705261],[-1.5296207,54.9679254]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5287008,54.9708403],[-1.5287952,54.9707273],[-1.5288303,54.9706853],[-1.5287995,54.9705862],[-1.5286762,54.9705367],[-1.528362,54.9705261],[-1.5278628,54.9705013],[-1.5274685,54.9704377]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5290266,54.9780772],[-1.5291707,54.9779189],[-1.5295976,54.9779049],[-1.5297277,54.9778745],[-1.529813,54.9778279],[-1.5298537,54.9777462]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5299443,54.9730735],[-1.5303305,54.9728752],[-1.5306248,54.9726741],[-1.5313607,54.9719146]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5311131,54.973206],[-1.5307559,54.9731771],[-1.5306006,54.9731837],[-1.5303764,54.973149],[-1.5301234,54.973116],[-1.5299215,54.9731092]]]}}
+]
+}

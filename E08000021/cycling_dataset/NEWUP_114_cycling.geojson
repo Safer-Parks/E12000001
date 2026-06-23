@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "NEWUP_114_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6217138,55.0172969],[-1.6217782,55.0172924],[-1.6219199,55.0172871],[-1.6220093,55.0172854]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6214858,55.0146554],[-1.6213467,55.0146666]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6216863,55.0155615],[-1.6217393,55.0155817],[-1.6218129,55.0158835],[-1.6219028,55.0161966],[-1.6219531,55.0164572],[-1.6219531,55.0166055],[-1.6219387,55.0167661],[-1.6219585,55.0169474],[-1.6219441,55.0170051],[-1.6219746,55.0172306],[-1.6220093,55.0172854],[-1.6220842,55.0173398],[-1.6221387,55.0173664]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6215126,55.0176157],[-1.6215811,55.0175843],[-1.6216475,55.0175279],[-1.6216937,55.0174735],[-1.6217114,55.0174063],[-1.621715,55.0173444],[-1.6217138,55.0172969],[-1.6216898,55.0170989]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6222423,55.0175458],[-1.6221864,55.0175751],[-1.6220677,55.0177229],[-1.6220522,55.017762],[-1.6220625,55.0178563],[-1.6220801,55.0180175],[-1.6220194,55.0180518]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6221387,55.0173664],[-1.6222005,55.0174735],[-1.6222423,55.0175458]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6225445,55.0174134],[-1.622444,55.0174886],[-1.6223205,55.0175189],[-1.6222423,55.0175458]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6221387,55.0173664],[-1.6222905,55.0173957],[-1.6224185,55.0173903],[-1.6225445,55.0174134]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6216898,55.0170989],[-1.6216521,55.0170381],[-1.6216341,55.0169043],[-1.6216629,55.016825],[-1.6217065,55.0167683]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6296732,55.0186954],[-1.629439,55.018086],[-1.6294637,55.0180188],[-1.6295592,55.0179588],[-1.6297194,55.0179181],[-1.629858,55.0179199],[-1.6300521,55.017957],[-1.6302925,55.0179976],[-1.6304897,55.0180012],[-1.6305975,55.0179729],[-1.6306587,55.0179232]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wansbeck Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.635291,55.014278],[-1.63535,55.0146266],[-1.6353666,55.0147228],[-1.6353727,55.0147582],[-1.6353799,55.0147959],[-1.6353904,55.0148514]]]}}
+]
+}
