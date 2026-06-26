@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOUTY_85",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13611495782, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4216291, 54.9906937 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13611616559, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4224132, 54.9908253 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12788042935, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4221426, 54.9909245 ] } }
+]
+}

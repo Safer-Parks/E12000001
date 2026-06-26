@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_52",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1716421379, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.809553, 54.5796418 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11212256358, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.8072765, 54.5800908 ] } }
+]
+}

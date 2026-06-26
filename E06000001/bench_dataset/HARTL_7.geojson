@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HARTL_7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9575424129, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2026549, 54.6890067 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9575424130, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2027005, 54.6890552 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9575424131, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2027025, 54.689092 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9575424132, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2028125, 54.6892381 ] } }
+]
+}

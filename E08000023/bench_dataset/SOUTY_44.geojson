@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOUTY_44",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7847403479, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4313873, 55.0052128 ] } }
+]
+}
