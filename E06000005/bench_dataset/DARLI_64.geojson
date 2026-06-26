@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DARLI_64",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12243671096, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4977965, 54.4859788 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12243671098, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4972284, 54.4863271 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12243671099, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4953472, 54.4867253 ] } }
+]
+}

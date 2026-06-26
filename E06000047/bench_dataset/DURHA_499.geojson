@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_499",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11241881946, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5743554, 54.7736889 ] } }
+]
+}

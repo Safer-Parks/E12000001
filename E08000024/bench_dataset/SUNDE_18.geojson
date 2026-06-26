@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SUNDE_18",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9678427890, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3583618, 54.8691231 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9678427891, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3586891, 54.8691262 ] } },
+{ "type": "Feature", "properties": { "osm_id": 345751288, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3590313, 54.8691834 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9688199905, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3592331, 54.8691857 ] } }
+]
+}

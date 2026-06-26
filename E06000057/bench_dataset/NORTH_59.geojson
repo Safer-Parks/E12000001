@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORTH_59",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13261317225, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0230897, 54.974713 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11005392318, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0228483, 54.9747397 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11005392313, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.0232412, 54.9748282 ] } }
+]
+}

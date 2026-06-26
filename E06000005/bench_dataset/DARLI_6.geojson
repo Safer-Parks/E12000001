@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DARLI_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3874574304, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5466881, 54.5291329 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3874574303, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5465164, 54.529301 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3874574301, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5465057, 54.5294629 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3874574302, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5463662, 54.5296185 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3874574300, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5464467, 54.5297804 ] } }
+]
+}

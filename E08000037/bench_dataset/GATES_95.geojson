@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GATES_95",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1986309134, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7838756, 54.9530195 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1986309150, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.7837664, 54.9531364 ] } }
+]
+}

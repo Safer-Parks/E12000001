@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DARLI_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9796623060, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5867868, 54.5439683 ] } }
+]
+}
