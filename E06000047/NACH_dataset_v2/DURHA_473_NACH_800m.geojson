@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_473_NACH_800m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { "u": "901", "v": "902", "name": null, "highway": [ "trunk" ], "node_count": 27, "total_depth": 24.85546875, "choice": 8.0, "nach": 0.66041635693116441, "nain": 2.0302845063707706 }, "geometry": { "type": "LineString", "coordinates": [ [ 433478.457910549128428, 548102.97076909255702 ], [ 433397.123410138709005, 547996.293883956270292 ], [ 433309.847144946688786, 547889.764062151196413 ], [ 433305.158083600748796, 547895.2604045298649 ] ] } },
+{ "type": "Feature", "properties": { "u": "32986", "v": "32987", "name": [ "Durham Road" ], "highway": [ "secondary" ], "node_count": 82, "total_depth": 159.15234375, "choice": 0.0, "nach": 0.0, "nain": 1.2463989794015939 }, "geometry": { "type": "LineString", "coordinates": [ [ 433493.332389391085599, 547990.928290981682949 ], [ 433430.394805743650068, 547897.696598268579692 ] ] } }
+]
+}
