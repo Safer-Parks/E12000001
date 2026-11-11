@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_145_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 84344343, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.787592, 54.7253997 ], [ -1.7893843, 54.7221826 ], [ -1.7900694, 54.7208667 ] ] } }
+]
+}

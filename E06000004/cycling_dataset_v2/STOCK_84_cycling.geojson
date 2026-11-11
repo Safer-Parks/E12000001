@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "STOCK_84_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 57014993, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3945596, 54.5888223 ], [ -1.3947232, 54.5889275 ], [ -1.3946918, 54.5889664 ] ] } }
+]
+}

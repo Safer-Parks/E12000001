@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_208_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1106520141, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4636649, 54.650143 ], [ -1.4635876, 54.6500994 ], [ -1.4635178, 54.6500652 ], [ -1.4633454, 54.649998 ], [ -1.4567136, 54.648114 ], [ -1.4545383, 54.6476298 ], [ -1.4519553, 54.6472961 ], [ -1.4489325, 54.6471983 ], [ -1.446922, 54.6473358 ], [ -1.4454832, 54.6474342 ], [ -1.4424281, 54.6476818 ], [ -1.4423297, 54.6477087 ], [ -1.4422037, 54.647791 ], [ -1.4421071, 54.6478546 ], [ -1.4420159, 54.6479252 ], [ -1.4419757, 54.6479733 ], [ -1.4419502, 54.6480214 ], [ -1.4418225, 54.6480426 ] ] } }
+]
+}

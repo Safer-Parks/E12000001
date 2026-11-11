@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_297_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 74992702, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.506042, 54.8078944 ], [ -1.5062757, 54.8076807 ], [ -1.5064285, 54.8075431 ], [ -1.5069677, 54.8071303 ], [ -1.5075953, 54.8066449 ], [ -1.5079172, 54.8063883 ], [ -1.5082766, 54.8060962 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 911635584, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5101527, 54.8150091 ], [ -1.5105692, 54.8151409 ], [ -1.5106241, 54.8151502 ], [ -1.5106691, 54.8151359 ], [ -1.5106979, 54.81511 ], [ -1.5107033, 54.8150841 ], [ -1.5106811, 54.8150594 ], [ -1.5106295, 54.8150474 ], [ -1.5105759, 54.8150431 ], [ -1.5103325, 54.8149701 ], [ -1.5101628, 54.814923 ], [ -1.5100723, 54.8148944 ], [ -1.5100408, 54.8148654 ], [ -1.5100186, 54.8148314 ], [ -1.5099229, 54.814789 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 911635585, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5097518, 54.8147603 ], [ -1.5099229, 54.814789 ], [ -1.5101346, 54.8148244 ], [ -1.5106952, 54.8149782 ], [ -1.510824, 54.8150099 ], [ -1.5109004, 54.8150648 ], [ -1.5109286, 54.8151111 ], [ -1.5108924, 54.8151753 ], [ -1.510836, 54.8152143 ], [ -1.5107301, 54.8152367 ], [ -1.5106443, 54.8152352 ], [ -1.5101266, 54.8150945 ], [ -1.5100414, 54.8150605 ], [ -1.510024, 54.8150366 ], [ -1.5100307, 54.8150076 ], [ -1.5100877, 54.8149964 ], [ -1.5101527, 54.8150091 ] ] } }
+]
+}

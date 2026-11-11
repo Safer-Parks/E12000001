@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_133_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4680069, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9846852, 54.5683651 ], [ -1.9838388, 54.5678616 ], [ -1.9830883, 54.5674152 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 4680068, "highway": "cycleway", "name": "Tees Railway Walk", "category": "Dedicated cycleway", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": "no", "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0018813, 54.573069 ], [ -2.0006946, 54.5729044 ], [ -2.0006182, 54.5728919 ], [ -1.9995841, 54.572724 ], [ -1.9973597, 54.5723749 ], [ -1.9924154, 54.5716232 ], [ -1.9914138, 54.5714227 ], [ -1.9905961, 54.5712112 ], [ -1.9902299, 54.5711126 ], [ -1.9895314, 54.5708924 ], [ -1.989379, 54.5708711 ], [ -1.9890109, 54.5707043 ], [ -1.9885594, 54.5705229 ], [ -1.9878835, 54.5701995 ], [ -1.9873949, 54.5699672 ], [ -1.9868621, 54.5696744 ], [ -1.9862028, 54.5692495 ], [ -1.9846852, 54.5683651 ] ] } }
+]
+}

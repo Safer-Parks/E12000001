@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_77_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 856970839, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3976799, 54.7198775 ], [ -1.3979627, 54.7200122 ], [ -1.3989873, 54.720477 ], [ -1.3994004, 54.7206381 ], [ -1.4002825, 54.7209064 ], [ -1.4009734, 54.7210679 ], [ -1.4014441, 54.7211675 ], [ -1.4032526, 54.7214197 ], [ -1.4040328, 54.7214611 ], [ -1.4048944, 54.7214475 ], [ -1.4053983, 54.7214197 ], [ -1.4059485, 54.7213902 ], [ -1.4075973, 54.721221 ] ] } }
+]
+}

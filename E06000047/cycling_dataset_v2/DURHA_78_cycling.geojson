@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_78_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 857352806, "highway": "path", "name": "Raisby Way", "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4379778, 54.7111146 ], [ -1.4374732, 54.7112721 ], [ -1.436892, 54.7114436 ], [ -1.4367157, 54.7114545 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 52515914, "highway": "path", "name": "Raisby Way", "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4583264, 54.7079198 ], [ -1.4576881, 54.7078946 ], [ -1.4570496, 54.7078897 ], [ -1.4559009, 54.7079157 ], [ -1.4541566, 54.7080173 ], [ -1.4538193, 54.7080434 ], [ -1.453645, 54.7080636 ], [ -1.4530344, 54.7081255 ], [ -1.4524372, 54.7081972 ], [ -1.4509696, 54.7083974 ], [ -1.4458211, 54.7093005 ], [ -1.4454806, 54.7093602 ], [ -1.4444581, 54.709543 ], [ -1.4437839, 54.7096636 ], [ -1.4426106, 54.7099553 ], [ -1.4401115, 54.7105766 ], [ -1.4399441, 54.7106234 ], [ -1.43962, 54.7107238 ], [ -1.4393274, 54.7107909 ], [ -1.439151, 54.7108384 ], [ -1.4385679, 54.7109635 ], [ -1.4379778, 54.7111146 ] ] } }
+]
+}

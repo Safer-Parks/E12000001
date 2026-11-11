@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "REDCL_34_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 841502388, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9854881, 54.557667 ], [ -0.9852478, 54.5575814 ], [ -0.9850483, 54.5575131 ], [ -0.9848455, 54.557422 ], [ -0.9847047, 54.557345 ], [ -0.9845642, 54.5572549 ], [ -0.9844247, 54.5571515 ], [ -0.9842689, 54.5570681 ], [ -0.9840704, 54.5569771 ], [ -0.9839633, 54.5569454 ], [ -0.9837528, 54.5568948 ], [ -0.9834651, 54.5568297 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 67333710, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9879371, 54.5610012 ], [ -0.9880607, 54.5609942 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 624126222, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9759329, 54.5662186 ], [ -0.9761694, 54.5661998 ], [ -0.9765, 54.566208 ], [ -0.9770265, 54.5661915 ], [ -0.9771911, 54.5661927 ], [ -0.9773497, 54.5662057 ], [ -0.9775164, 54.5662304 ], [ -0.9775692, 54.5662304 ], [ -0.9778268, 54.5661909 ], [ -0.9784941, 54.5661008 ], [ -0.9792869, 54.56597 ], [ -0.979354, 54.5659476 ], [ -0.9795898, 54.5658615 ], [ -0.9798906, 54.5657496 ], [ -0.9800654, 54.5657001 ], [ -0.9802768, 54.5656694 ], [ -0.9803175, 54.5656565 ], [ -0.9803337, 54.5656341 ], [ -0.9803337, 54.5656105 ], [ -0.9802199, 54.5652758 ], [ -0.9801996, 54.5651591 ], [ -0.9801914, 54.5650201 ], [ -0.9801914, 54.5649564 ], [ -0.980196, 54.5649195 ] ] } }
+]
+}

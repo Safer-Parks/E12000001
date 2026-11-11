@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORTH_297_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 912957510, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9294751, 55.1776348 ], [ -1.929287, 55.1775343 ], [ -1.9290746, 55.1773714 ], [ -1.9289957, 55.1771878 ], [ -1.928941, 55.1769452 ], [ -1.9289896, 55.1768516 ], [ -1.9291386, 55.1767173 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 912957508, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9293659, 55.1777319 ], [ -1.9294751, 55.1776348 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 912957509, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9297056, 55.1778797 ], [ -1.9293659, 55.1777319 ] ] } }
+]
+}

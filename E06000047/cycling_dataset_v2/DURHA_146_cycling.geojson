@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_146_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 115698903, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6557911, 54.6961371 ], [ -1.6551972, 54.6959596 ], [ -1.6539877, 54.6955982 ], [ -1.6512924, 54.6948984 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1465417649, "highway": "track", "name": "Wear Road", "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6549443, 54.7043733 ], [ -1.6549069, 54.7048161 ], [ -1.65488, 54.7050253 ], [ -1.6548722, 54.7052453 ], [ -1.6549283, 54.7056065 ], [ -1.6550786, 54.7059826 ], [ -1.6556658, 54.7073111 ] ] } }
+]
+}

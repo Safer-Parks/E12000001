@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_90_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 696668357, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4208493, 54.7368094 ], [ -1.4208453, 54.7366192 ], [ -1.4208661, 54.7364006 ], [ -1.4209146, 54.735989 ], [ -1.4210384, 54.7349852 ], [ -1.4211202, 54.7343095 ], [ -1.4210907, 54.7341802 ], [ -1.4210451, 54.7341292 ], [ -1.4206508, 54.7338984 ], [ -1.4202456, 54.7336661 ], [ -1.4192463, 54.7331175 ], [ -1.4189166, 54.7329823 ], [ -1.4186593, 54.7327854 ], [ -1.4184036, 54.7325897 ], [ -1.4182095, 54.7324626 ], [ -1.4181056, 54.7324279 ], [ -1.4180921, 54.7324124 ], [ -1.4181187, 54.7323736 ], [ -1.4181333, 54.7323119 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 696668358, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.42183, 54.7387719 ], [ -1.4219024, 54.7382971 ], [ -1.4217228, 54.7380833 ], [ -1.4216566, 54.7377984 ], [ -1.4216255, 54.7377528 ], [ -1.420868, 54.7370505 ], [ -1.4208317, 54.7369682 ] ] } }
+]
+}

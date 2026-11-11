@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_135_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1019578675, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7335904, 54.5665557 ], [ -1.7339194, 54.5664624 ], [ -1.7342734, 54.5663582 ], [ -1.7346248, 54.5662633 ], [ -1.7347911, 54.5662244 ], [ -1.7350271, 54.5661965 ], [ -1.7358023, 54.56617 ], [ -1.7370844, 54.5661545 ], [ -1.7388654, 54.566114 ], [ -1.7399383, 54.5660938 ], [ -1.741325, 54.5660985 ], [ -1.741734, 54.5661008 ], [ -1.7418225, 54.566121 ], [ -1.741848, 54.5661413 ] ] } }
+]
+}

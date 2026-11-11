@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORTH_151_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 81939508, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1105312, 54.9847401 ], [ -2.1100801, 54.9848372 ], [ -2.1096408, 54.9849604 ], [ -2.109426, 54.9850109 ], [ -2.1091917, 54.9850109 ], [ -2.1089183, 54.984966 ], [ -2.1079517, 54.9847363 ], [ -2.1072878, 54.9845515 ], [ -2.1069558, 54.9844058 ], [ -2.1051105, 54.9835655 ], [ -2.1047493, 54.9834198 ], [ -2.1043294, 54.9833189 ], [ -2.1037924, 54.9831901 ], [ -2.1026892, 54.982966 ], [ -2.1019862, 54.9828483 ], [ -2.1015175, 54.9827923 ], [ -2.1011813, 54.9827724 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 197458587, "highway": "bridleway", "name": "Acomb Bridleway", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.104261, 54.9903388 ], [ -2.1042628, 54.9903269 ], [ -2.1042199, 54.9901757 ], [ -2.1039409, 54.9898434 ], [ -2.1036405, 54.9882676 ], [ -2.1034098, 54.9876489 ], [ -2.103294, 54.9873896 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1284812911, "highway": "bridleway", "name": "Acomb Bridleway", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1042477, 54.9904273 ], [ -2.104261, 54.9903388 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1284812910, "highway": "bridleway", "name": "Acomb Bridleway", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1053387, 54.9925711 ], [ -2.1051022, 54.992406 ], [ -2.1049494, 54.9922193 ], [ -2.1046678, 54.991773 ], [ -2.1043566, 54.9909003 ], [ -2.1042413, 54.9904696 ], [ -2.1042477, 54.9904273 ] ] } }
+]
+}

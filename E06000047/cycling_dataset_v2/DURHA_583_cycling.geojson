@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_583_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 54794167, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3045102, 54.6063318 ], [ -1.3050896, 54.6066549 ], [ -1.3054973, 54.6069905 ], [ -1.3058621, 54.6073633 ], [ -1.3064843, 54.607761 ], [ -1.3076216, 54.6081338 ], [ -1.3085443, 54.6081835 ], [ -1.3087588, 54.6082705 ], [ -1.3090163, 54.6085315 ], [ -1.3097459, 54.6086682 ], [ -1.3098249, 54.6087616 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 54692262, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3132957, 54.6094333 ], [ -1.3129962, 54.6094041 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 76216397, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3142389, 54.6100963 ], [ -1.3148634, 54.6101809 ], [ -1.314989, 54.6101492 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 54682471, "highway": "cycleway", "name": "Wolviston Mill Lane", "category": "Dedicated cycleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3131594, 54.6179114 ], [ -1.3128563, 54.6181468 ], [ -1.3122557, 54.6184099 ], [ -1.310122, 54.6193263 ] ] } }
+]
+}
