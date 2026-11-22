@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DURHA_637_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1024857208, "highway": "path", "name": null, "category": "Shared path", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6183472, 54.5423169 ], [ -1.6241105, 54.5424714 ], [ -1.6226054, 54.5414858 ], [ -1.6227148, 54.5413538 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1024505994, "highway": "path", "name": null, "category": "Shared path", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6461532, 54.5354387 ], [ -1.6457056, 54.5357679 ], [ -1.6448349, 54.536559 ], [ -1.6438716, 54.5369959 ], [ -1.6429783, 54.5376564 ], [ -1.6422098, 54.5380635 ], [ -1.6421627, 54.5389793 ], [ -1.6422506, 54.539142 ], [ -1.6423739, 54.5393704 ], [ -1.6429531, 54.5394816 ], [ -1.6433286, 54.5405726 ], [ -1.6432235, 54.5408672 ], [ -1.6429004, 54.5412222 ], [ -1.6427207, 54.5416377 ], [ -1.6424283, 54.5419454 ], [ -1.6421763, 54.5421507 ], [ -1.6419856, 54.5424945 ], [ -1.641877, 54.5425725 ], [ -1.6416764, 54.5426269 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 64443628, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6416764, 54.5426269 ], [ -1.640155, 54.5427364 ], [ -1.6394805, 54.5427604 ], [ -1.6391693, 54.5427604 ], [ -1.6390459, 54.542788 ], [ -1.6389904, 54.5428956 ], [ -1.6389746, 54.5430219 ], [ -1.6389695, 54.5434333 ], [ -1.6390728, 54.5446028 ], [ -1.6390304, 54.5448375 ], [ -1.6389354, 54.5451167 ], [ -1.6388261, 54.5452879 ], [ -1.6385766, 54.5455233 ], [ -1.6383714, 54.5457646 ], [ -1.6372274, 54.5473811 ] ] } }
+]
+}

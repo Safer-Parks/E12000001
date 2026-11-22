@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORTH_410_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1542863907, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0420678, 54.9946141 ], [ -2.0417515, 54.9947625 ], [ -2.0416878, 54.9954318 ], [ -2.0415604, 54.996651 ], [ -2.0413827, 54.9967164 ], [ -2.0413995, 54.9968934 ], [ -2.0416046, 54.9979407 ], [ -2.042213, 54.9993081 ], [ -2.0414307, 55.0022885 ], [ -2.0416013, 55.0026849 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 143318798, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0618543, 54.9869781 ], [ -2.0620306, 54.9869294 ], [ -2.0624812, 54.9868186 ], [ -2.0639188, 54.9862153 ], [ -2.0685108, 54.9853165 ] ] } }
+]
+}
